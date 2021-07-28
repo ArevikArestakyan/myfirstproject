@@ -1,2 +1,2 @@
 # myfirstproject
-sample project
+ about my first project
